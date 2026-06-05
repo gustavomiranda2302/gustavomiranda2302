@@ -53,7 +53,7 @@ Atualmente construindo meu portfólio e buscando oportunidades como desenvolvedo
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [PythonAnki](https://github.com/gustavomiranda2302/PythonAnki) | Aplicativo de flashcards com algoritmo de repetição espaçada SM-2, arquitetura MVC e persistência em JSON | Python, PySide6 |
-| [atividade_dlq](https://github.com/gustavomiranda2302/atividade_dlq) | Serviço de auditoria de Dead Letter Queue com Spring Boot e AWS SQS, arquitetura em camadas | Java, Spring Boot, AWS SQS |
+| [auditoria_dlq](https://github.com/gustavomiranda2302/atividade_dlq) | Serviço de auditoria de Dead Letter Queue com Spring Boot e AWS SQS, arquitetura em camadas | Java, Spring Boot, AWS SQS |
 | [Desenvolvimento-Web](https://github.com/gustavomiranda2302/Desenvolvimento-Web) | Coleção de projetos web com HTML semântico, Flexbox, CSS Grid e React | HTML, CSS, React |
 
 ---
