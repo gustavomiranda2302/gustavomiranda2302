@@ -21,7 +21,6 @@ Atualmente construindo meu portfólio e buscando oportunidades como desenvolvedo
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Cloud & Mensageria**
@@ -39,7 +38,6 @@ Atualmente construindo meu portfólio e buscando oportunidades como desenvolvedo
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-003366?style=flat&logo=databricks&logoColor=white)
 
 **Ferramentas**
 
@@ -71,4 +69,3 @@ Atualmente construindo meu portfólio e buscando oportunidades como desenvolvedo
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-miranda-dos-santos-5301062b6)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/gustavomiranda2302)
