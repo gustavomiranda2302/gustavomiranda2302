@@ -2,16 +2,16 @@
 
 <p align="center">
   Estudante de Engenharia de Software · Backend Developer<br/>
-  Java • Spring Boot • Python · Cascavel/PR
+  Java • Spring Boot • Python • FastAPI • TypeScript · Cascavel/PR
 </p>
 
 ---
 
 ### Sobre mim
 
-Estou no 5º semestre de Engenharia de Software na FAG (Cascavel/PR), com foco em desenvolvimento backend. Tenho experiência prática com Java/Spring Boot, arquitetura em camadas, hexagonal e orientação a eventos, além de Python para análise de dados e automação.
+Sou estudante de Engenharia de Software no 5º semestre na FAG (Cascavel/PR), com foco em desenvolvimento backend — gosto de pensar em arquitetura, organizar código de forma limpa e entender o porquê das decisões técnicas.
 
-Atualmente construindo meu portfólio e buscando oportunidades como desenvolvedor júnior ou estágio em desenvolvimento backend.
+Atualmente construindo meu portfólio com Java/Spring Boot e Python, aplicando padrões como arquitetura hexagonal, MVC e orientação a eventos em projetos práticos. Buscando minha primeira oportunidade como desenvolvedor júnior ou estagiário.
 
 ---
 
