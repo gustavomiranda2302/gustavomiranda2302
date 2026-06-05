@@ -69,3 +69,4 @@ Atualmente construindo meu portfólio e buscando oportunidades como desenvolvedo
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-miranda-dos-santos-5301062b6)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gustavomiranda230206@gmail.com)
