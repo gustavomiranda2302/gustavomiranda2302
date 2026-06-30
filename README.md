@@ -9,7 +9,7 @@
 
 ### Sobre mim
 
-Sou estudante de Engenharia de Software no 5º semestre na FAG (Cascavel/PR), com foco em desenvolvimento backend — gosto de pensar em arquitetura, organizar código de forma limpa e entender o porquê das decisões técnicas.
+Sou estudante de Engenharia de Software no 5º semestre na FAG (Cascavel/PR), com foco em desenvolvimento fullstack com ênfase em backend — gosto de pensar em arquitetura, organizar código de forma limpa e entender o porquê das decisões técnicas.
 
 Atualmente construindo meu portfólio com Java/Spring Boot e Python, aplicando padrões como arquitetura hexagonal, MVC e orientação a eventos em projetos práticos. Buscando minha primeira oportunidade como desenvolvedor júnior ou estagiário.
 
